@@ -1,2 +1,3 @@
 # calc
-call w/ js
+calc w/ vanilla js
+[Live Demo](https://cbsyw.github.io/calc/)
